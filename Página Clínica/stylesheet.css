@@ -1,0 +1,31 @@
+.flex {
+    display: flex;
+}
+
+#b {
+    margin-left: 700px;
+}
+
+#a {
+    list-style: none;
+    text-align: left;
+}
+
+body {
+    background-color: rgb(5, 4, 13);
+    color: rgb(252, 252, 252);
+    text-align: center;
+}
+
+.faixa ul {
+    display: flex;
+    list-style: none;
+}
+
+.faixa ul li {
+    padding-right: 14px;
+}
+
+#oi {
+    list-style: none;
+}
