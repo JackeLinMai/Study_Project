@@ -1,0 +1,19 @@
+@media screen and (max-width:700px) {
+    /* na tela quando tiver tal tamanho ela irá se comportar  dessa forma*/
+    header .container {
+        display: flex;
+        flex-direction: column;
+        /*toda vez que diminuir, ela irá fica com os tela ajustada*/
+    }
+    .botao {
+        /* quando diminuir, os botaos vao se afastar,para ser melhor a visuzalização e conforto do usúario*/
+        margin-top: 5px;
+        width: 300px;
+    }
+}
+
+@media screen and (min-width:1000px) {
+    .descricao {
+        width: 50%;
+    }
+}
