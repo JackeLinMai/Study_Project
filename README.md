@@ -11,5 +11,8 @@ Construção de uma página com diferentes pokemons, utilizando a pokeapi.
 ![Captura de Tela (112)](https://user-images.githubusercontent.com/102440740/194935634-dbc0a2ba-67ad-44de-b075-5f7e1bb14dcc.png)
 >Tela do celular:
 ![Captura de Tela (114)](https://user-images.githubusercontent.com/102440740/194935811-4dce7f00-9045-44b5-8037-082684a4b9e7.png)
+<h3>NETFLIX CLONE</h3>
+<p>A página foi feita utilizando conceitos simples do css e html, utilizando a biblioteca(quase batendo as botas)Jquery. Página responsiva e com design agradável.</p>
+<img src="https://user-images.githubusercontent.com/102440740/196054414-88d4ce46-4470-44a4-a579-8b83527217ae.png">
 
 
