@@ -1,69 +1,62 @@
-* {
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
-}
-
 body {
-    height: 100vh;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-family: sans-serif;
-    background-color: rgb(17, 17, 17);
+    overflow-x: hidden;
+    overflow-y: hidden;
+    background-color: #fff;
 }
 
-#main {
-    background-color: black;
-    background-image: url(./img/espaço.jpg);
-    height: 600px;
-    width: 600px;
+#medidorPlaneta {
+    border: 2px solid #000;
+    width: 300px;
+    height: 20px;
+    background-color: #fff;
 }
 
-.gameInstructions {
-    text-align: center;
-    position: relative;
-    color: white;
-    top: 0px;
+#barraPlaneta {
+    width: 300px;
+    height: 20px;
+    background-color: #66f;
 }
 
-.startButton {
-    position: relative;
-    color: white;
-    top: 9rem;
-    left: 15rem;
-    cursor: pointer;
-}
-
-.heroShip {
-    position: relative;
-    height: 60px;
-    width: 70px;
-    left: 20px;
-    top: 250px
-}
-
-.laser {
-    position: relative;
+.navJog {
     width: 40px;
-    height: 30px;
+    height: 40px;
+    background-image: URL("nave_jog.gif");
+    position: absolute;
 }
 
-.alien {
-    height: 60px;
+.bomba {
+    width: 24px;
+    height: 40px;
+    background-image: URL("bomba.gif");
+    position: absolute;
+}
+
+.tiroJog {
+    width: 6px;
+    height: 6px;
+    background-color: #000;
+    border-radius: 10px;
+    position: absolute;
+}
+
+.explosaoChao {
+    width: 55px;
+    height: 57px;
+    position: absolute;
+}
+
+.explosaoAr {
     width: 70px;
-    position: relative;
+    height: 70px;
+    position: absolute;
 }
 
-.alienTransition {
-    opacity: 1;
-    transition: opacity 1.5s ease-in-out;
-}
-
-.deadAlien {
-    height: 60px;
-    width: 70px;
-    position: relative;
-    opacity: 0;
+.telaMsg {
+    position: absolute;
+    margin-left: -25%;
+    top: 50px;
+    left: 50%;
+    width: 720px;
+    height: 621px;
+    display: none;
 }

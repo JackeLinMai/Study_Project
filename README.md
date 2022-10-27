@@ -14,5 +14,8 @@ Construção de uma página com diferentes pokemons, utilizando a pokeapi.
 <h3>NETFLIX CLONE</h3>
 <p>A página foi feita utilizando conceitos simples do css e html, utilizando a biblioteca(quase batendo as botas)Jquery. Página responsiva e com design agradável.</p>
 <img src="https://user-images.githubusercontent.com/102440740/196054414-88d4ce46-4470-44a4-a579-8b83527217ae.png">
+<h3>Alura: conceitos iniciais de Html e CSS<h3>
+<p>Iniciando o curso na alura, minha principal dificuldade é fazer uma interface harmônica, logo inicio o estudo sobre design de interfaces e fazer coisas mais bonitas. As imagens presentes são da minha loja de artesanato que tenho como hobbie.</p>
+<img src="https://user-images.githubusercontent.com/102440740/198376358-1a297301-c52a-46ff-9156-a77d1f121a75.png">
 
 
