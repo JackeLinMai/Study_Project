@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/style.css">
+    <link rel="stylesheet" href="assets/form/form.css">
+        <title>Contatos</title>
+</head>
+<body>
+    <header>
+        <div class="caixa">
+            <h1><img src="assets/img/jackelinmai.svg" width="260" alt="desenho de uma menina de cabelo lilás"></h1>
+    
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="https://shopee.com.br/atelie_tanuki">Produtos</a></li>
+                    <li><a href="pag2.html">Contato</a></li>
+                </ul>
+            </nav>
+        </div>
+    
+    </header>
+    <main>
+        <form>
+            <fieldset>
+            <label for="nomeesobrenome">Nome e Sobrenome</label>
+            <input type="text" id="nomeesobrenome" class="input-padrao" required>
+
+            <label>Email</label>
+            <input type="email" id="email" class="input-padrao" required >
+
+            <label>Telefone</label>
+            <input type="tel" id="telefone" class="input-padrao" required>
+
+            <label for="mensagem">Mensagem</label>
+            <textarea cols="70" rows="20" id="mensagem" class="input-padrao"></textarea>
+            </fieldset>
+           
+            <div>
+                <p>Qual horário quer ser atendido?</p>
+                    <label for="radio-email"><input type="radio" name="contato" value="email" id="radio-email">Email</label>
+                   
+                
+                    <label for="radio-telefone"><input type="radio" name="contato" value="telefone" id="radio-telefone">Telefone</label>
+                    
+
+                    <label for="whatssap"><input type="radio" name="contato" value="whatssap" id="radio-whatssap">Whatssap</label>
+           
+        
+                <p>Qual horário quer ser atendido?</p>
+                    <select>
+                        <option>Manhã</option>
+                        <option>Tarde</option>
+                        <option>Noite</option>
+                    </select>
+                
+                    
+            </div>
+        <label class="checkbox"><input type="checkbox">Gostaria de receber nossas novidades por email?</label>
+        <input type="submit" value="Enviar" class="enviar">
+    </form>
+    <table>
+        <thead>
+            <tr>
+                <th>Dia</th>
+                <th>Horário</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Segunda</td>
+                <td>8h às 20h</td>
+            </tr>
+            <tr>
+                <td>Terça</td>
+                <td>8h às 20h</td>
+            </tr>
+            <tr>
+                <td>Quarta</td>
+                <td>8h às 20h</td>
+        
+                </tr>
+                <tr>
+                    <td>Quinta</td>
+                    <td>8h às 20h</td>
+                </tr>
+                </tr>
+                <tr>
+                    <td>Sexta</td>
+                    <td>8h às 20h</td>
+                </tr>
+            </tr>
+            <tr>
+                <td>Sábado</td>
+                <td>8h às 20h</td>
+            </tr>
+        </tbody>
+
+    </table>
+        
+    </main>
+
+    <footer>
+        <img src="assets/img/logo.png" width="300px">
+        <p class="copyright">&copy; JackeLinMai</p>
+    </footer>
+</body>
+</html>

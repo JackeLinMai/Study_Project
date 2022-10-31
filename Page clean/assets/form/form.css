@@ -1,0 +1,53 @@
+main{
+    width: 940px;
+    margin: 0 auto;
+
+}
+form{
+    margin: 40px 0;
+}
+form label, form legend{
+    display: block;
+    font: 20px;
+    margin: 0 0 10px;
+}
+.input-padrao{
+    display: block;
+    margin: 0 0 20px;
+    padding: 10px 25px;
+    width: 50%;
+}
+.checkbox{
+    margin: 20px 0 ;
+}
+fieldset{
+    border: none;
+}
+.enviar{
+    width: 40%;
+    padding: 15px 0;
+    background:rgb(171, 50, 151);
+    color: white;
+    font-size: bold;
+    border: none;
+    border-radius: 9px;
+    transition: 1s all;
+    cursor: pointer;
+   
+}
+.enviar:hover{
+    background: rgb(234, 91, 158);
+    transform:scale(1.1);/* essa propriedade pode mudar bastante o item dinamicamente como girar,inverter,etc*/
+}
+table{
+    margin: 20px 0 40px;
+}
+thead{
+    background-color: rgb(171, 50, 151);
+    color: white;
+    font-weight: bold;
+}
+td,th{
+  border: 1px solid rgb(234, 91, 158);  
+  padding: 8px 15px;
+}
