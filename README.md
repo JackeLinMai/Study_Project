@@ -17,9 +17,9 @@ Construção de uma página com diferentes pokemons, utilizando a pokeapi.
 <h3>Alura: conceitos iniciais de Html e CSS<h3>
 <p>Iniciando o curso na alura, minha principal dificuldade é fazer uma interface harmônica, logo inicio o estudo sobre design de interfaces e fazer coisas mais bonitas. As imagens presentes são da minha loja de artesanato que tenho como hobbie.</p>
 <img src="https://user-images.githubusercontent.com/102440740/198376358-1a297301-c52a-46ff-9156-a77d1f121a75.png">
+<<<<<<< HEAD
 <h3>Landing Page Insta>/h3>
 <p>O intuito não é criar um clone da página, mas praticar conceitos de flexbox utilizando sua interface clean, particulamente gosto do visual :D</p>
-<img src="https://user-images.githubusercontent.com/102440740/199335874-9e36878c-5f9b-45dc-9c28-fcf799d62d2d.png">
 
 <h3>Tela dinâmica</h3>
 <p>Fiz em um curso na dio sobre menus, curti bastante fazer ^^. Reforçando conceitos sobre animações e transições.</p>
