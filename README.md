@@ -22,5 +22,5 @@ Construção de uma página com diferentes pokemons, utilizando a pokeapi.
 <img src="https://user-images.githubusercontent.com/102440740/199335874-9e36878c-5f9b-45dc-9c28-fcf799d62d2d.png">
 
 <h3>Tela dinâmica</h3>
-<p>Fiz em um curso na dio sobre menus, curti bastante fazer^^. Reforçando conceitos sobre animações e transições.</p>
+<p>Fiz em um curso na dio sobre menus, curti bastante fazer ^^. Reforçando conceitos sobre animações e transições.</p>
 <img src="https://user-images.githubusercontent.com/102440740/199624005-d571f9d3-3872-44d5-bd39-15c1b1db324e.png">
