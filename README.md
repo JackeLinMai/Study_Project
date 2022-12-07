@@ -14,13 +14,15 @@ Construção de uma página com diferentes pokemons, utilizando a pokeapi.
 <h3>NETFLIX CLONE</h3>
 <p>A página foi feita utilizando conceitos simples do css e html, utilizando a biblioteca(quase batendo as botas)Jquery. Página responsiva e com design agradável.</p>
 <img src="https://user-images.githubusercontent.com/102440740/196054414-88d4ce46-4470-44a4-a579-8b83527217ae.png">
-<h3>Alura: conceitos iniciais de Html e CSS<h3>
+<h3>Alura: conceitos iniciais de Html e CSS</h3>
 <p>Iniciando o curso na alura, minha principal dificuldade é fazer uma interface harmônica, logo inicio o estudo sobre design de interfaces e fazer coisas mais bonitas. As imagens presentes são da minha loja de artesanato que tenho como hobbie.</p>
 <img src="https://user-images.githubusercontent.com/102440740/198376358-1a297301-c52a-46ff-9156-a77d1f121a75.png">
-<<<<<<< HEAD
-<h3>Landing Page Insta>/h3>
+<h3>Landing Page Insta</h3>
 <p>O intuito não é criar um clone da página, mas praticar conceitos de flexbox utilizando sua interface clean, particulamente gosto do visual :D</p>
 
 <h3>Tela dinâmica</h3>
 <p>Fiz em um curso na dio sobre menus, curti bastante fazer ^^. Reforçando conceitos sobre animações e transições.</p>
 <img src="https://user-images.githubusercontent.com/102440740/199624005-d571f9d3-3872-44d5-bd39-15c1b1db324e.png">
+<h3>Youtube Clone</h3>
+<p> O intuito não é necesssariamente fazer um modelo igual ao youtube, mas pra treino de flexbox e organização de itens na tela. No momento não me preocupei com a resposividade, isso será levado em consideração em algum outro projeto pessoal :D</p>
+<img src="https://user-images.githubusercontent.com/102440740/206278007-b2042fe2-8a18-48ac-8982-e6e44a6828f9.png">

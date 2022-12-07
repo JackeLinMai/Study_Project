@@ -1,0 +1,214 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poor+Story&family=Roboto:ital,wght@0,100;0,300;1,100;1,900&display=swap');
+*{
+    font-family: 'Roboto', sans-serif;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    background: #fff;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 50px;
+    
+        box-shadow: 0px 0px 6px 0px rgba(0, 0, 0, 0.5);
+
+}
+.direito-header{
+    width: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    gap: 30px;  
+}                     
+.center-header{
+        width: 30%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+}
+form{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    border-color: rgb(217, 214, 214);
+    
+}
+#search{
+    height: 30px;
+    width: 90%;
+    border-radius: 20px 0 0 20px;
+    border-color: rgb(217, 214, 214);
+   
+}
+.bt-busca{
+    border-radius: 0px 20px 20px 0px;
+    border-color: rgb(217, 214, 214);
+    width: 50px;
+}
+.esquerdo-header{
+    width: 140px;
+    display: flex;
+    align-items: center;
+    gap: 21px;
+       
+}
+.corpo-total{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    top: 70px;
+    gap: 30px;
+    
+}
+.corpo-direito{
+    width: 88%;
+    position: relative;
+    left: 10px;
+
+}
+.thumb{
+    height: 567px;
+    display: flex;
+    
+}
+.informacoes-criador{
+    display: flex;
+    flex-direction: row;;
+    align-items: center;
+    gap: 180px;
+
+}
+.informacoes-canal{
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    
+
+    
+}
+.informacoes-direita{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 18px;
+    width: 40%;
+    font-size: 14px;
+
+}
+.inscreva-se{
+    border-radius: 20px;
+    width: 38%;
+    height: 40px;
+    font-size: 15px;
+    background-color: black;
+    color: #fff;
+    border: none;
+}
+.canal {
+    font-size: 19px;
+    margin: 1px;
+}
+
+.inscritos {
+    margin: 1px;
+    font-size: 15px;
+}
+
+.tema {
+    margin: 8px;
+}
+.informacoes-esquerda{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    align-items: center;
+    width: 40%;
+    
+    
+
+}
+.like-deslike{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+
+.like{
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    border-radius: 20px 0px 0px 20px ;
+    width: 80px;
+    float: center;
+    vertical-align: middle;
+    height: 40px;
+    width: 100px;
+    border-style: none;
+    align-items: center;
+    border-style: none solid none none;
+    border-color: rgb(232, 232, 232);
+    
+}
+
+.deslike{
+    border-radius: 0px 20px 20px 0px;
+    float: right;
+     vertical-align: middle;
+     height: 40px;
+     border-style: none;
+     
+}
+.din{
+    display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+        border-style: none;
+        height: 40px;
+        border-radius: 20px;
+        
+}
+.corpo-esquerdo{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+.item{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    right: 40px;
+    width: 100%;
+    height: 120px;
+
+}
+.tumbnail{
+    height: 130px;
+    position: relative;
+    display: flex;
+    
+}
+.sugestoes{
+    display:flex;
+    flex-direction: column;
+    height: 120px;
+    position: relative;
+    left: 10px;
+
+}
+.info-canal{
+    margin: 1px;
+    font-size: 10px;
+}
+.tema-video{
+    margin: 1px;
+    font-size: 16px;
+}
+.infocanal{
+    font-size: 14px;
+}
+
